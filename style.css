@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(210, 210, 210);
+}
+font{
+    color: grey;
+}
+h1{
+    color: darkblue;
+    background-color: lightcyan;
+}
+main-tite{
+    color: darkred;
+    background-color: mistyrose;
+}
+nav-link{
+    color: forestgreen;
+    background-color: lightyellow;
+}
+.color-box p{
+    color: saddlebrown;
+    background-color: lemonchiffon;
+}
+.color-box > p {
+    color: goldenrod;
+    background-color: ivory;
+}
+.intro-paragraph + p {
+    color: teal;
+    background-color: lightcyan;
+}
